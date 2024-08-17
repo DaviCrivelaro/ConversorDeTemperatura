@@ -1,0 +1,32 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    background-image: url("https://media.istockphoto.com/id/1156282625/pt/foto/thermometers-on-red-and-blue-background.jpg?s=612x612&w=0&k=20&c=hdhos6C77diki4fxjJIEVrUQKVON4P-qzC0rUc5dyLQ=");
+    background-color: #ffffff;
+    background-size: 100vh;
+    background-position: center bottom;
+    background-repeat: repeat;
+  }
+  
+  .container {
+    text-align: center;
+    font-size:larger;
+    color:  #000000;
+    padding: 150px;
+    height: 150vh;
+  }
+  
+  .page-title {
+    color: #0e0d0d;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #0a0a0a;
+  margin: 0 0 5px;
+  }
+  
+  .page-logo {
+    width: 280px;
+  }
+  
+  
